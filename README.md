@@ -11,3 +11,9 @@ re-authenticate Azure CLI using device code:
 az logout
 az login --use-device-code
 az account show
+```
+
+Then run Terraform again:
+
+terraform plan
+terraform apply
