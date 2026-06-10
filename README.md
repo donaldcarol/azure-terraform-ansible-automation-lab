@@ -15,5 +15,7 @@ az account show
 
 Then run Terraform again:
 
+```
 terraform plan
 terraform apply
+```
